@@ -1,2 +1,3 @@
-# RevatureStaging
-Activities and Projects for Staging in Revature
+# Revature
+
+Activities and Projects for Staging and Project OnBoard in Revature
